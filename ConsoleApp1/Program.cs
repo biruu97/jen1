@@ -18,6 +18,7 @@ namespace ConsoleApp1
             Program p = new Program();
             p.GetNumbers();
             Console.WriteLine("{0}\n{1}\n", p.iNum1, p.iNum2);
+            //fergfeog
         }
     }
 }
